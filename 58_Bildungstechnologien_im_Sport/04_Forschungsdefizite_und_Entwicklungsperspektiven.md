@@ -3,7 +3,7 @@
 <!-- filename: 04_Forschungsdefizite_und_Entwicklungsperspektiven.md -->
 <!-- title: Forschungsdefizite und Entwicklungsperspektiven -->
 
-Eine kritische Bewertung der aktuellen Situation in der Sport- und Bewegungswissenschaft im Kontext der Nutzung digitaler Medien führt zu sechs Aussagen:
+Eine kritische Bewertung der aktuellen Situation in der Sport- und Bewegungswissenschaft im Kontext der Nutzung digitaler Medien kommt in Anlehnung an Kretschmann (2008; 2010b) zu sechs Aussagen:
 
 1. **Empirische Breite fehlt weiterhin.** Trotz deutlichem Zuwachs an Publikationen seit 2020 bleiben belastbare Längsschnittstudien und randomisiert-kontrollierte Designs im Schulsport selten. Qualitative Fallstudien dominieren; Wirkungseffekte werden meist kurzfristig und in Interventionsgruppen ohne adäquate Kontrollgruppe erhoben (Jastrow et al., 2022).
 2. **Mediendatenbanken und Qualitätskriterien sind unzureichend.** Eine systematisch kuratierte, kommentierte und peer-reviewte Mediendatenbank für Bildungstechnologien im Sport existiert weder auf nationaler noch auf DACH-Ebene. Erste Angebote von Ländern (z.B. MUNDO.schule, EduArc) und Einzelinitiativen (vlamingo.de, sportunterricht.de, sportunterricht.ch) sind hilfreich, aber fragmentiert. Es fehlt ein fachbezogenes Bewertungsraster.
